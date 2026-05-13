@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./.github/assets/1.png" alt="Logo" height="200">
   <h1 align="center"><strong>Formula 1 REST API</strong></h1>
   <p align="center">
     API REST com dados de times e pilotos da Fórmula 1,<br>desenvolvida durante o bootcamp da <b>DIO (Digital Innovation One)</b>.
